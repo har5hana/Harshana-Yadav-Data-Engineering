@@ -1,6 +1,0 @@
-brief summary:
-
-In this task, multiple product-related CSV files were imported and merged into a single Pandas DataFrame for analysis. After loading the data, an initial exploration was carried out using functions such as `head()`, `tail()`, `shape()`, `columns`, and `info()` to understand the structure and contents of the dataset.
-The dataset was then examined for missing values and data quality issues. Missing entries were identified and handled appropriately to improve consistency. Duplicate records were detected and removed to avoid redundancy and ensure accurate analysis.
-Basic data manipulation techniques were applied, including selecting specific columns and filtering records based on conditions such as product ratings, discounts, and prices. Since the dataset did not contain a quantity column, a default quantity value was introduced to demonstrate feature engineering. Using this value and the product's final price, a new column named `total_amount` was created.
-Finally, the cleaned and transformed dataset was exported as a new CSV file. Through this exercise, key Pandas operations for data loading, exploration, cleaning, filtering, transformation, and exporting were successfully performed, resulting in a dataset that is better prepared for further analysis and reporting.
