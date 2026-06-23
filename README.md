@@ -1,4 +1,4 @@
-# Data Engineering Internship Portfolio
+# Data Engineering Portfolio
 
 ## Overview
 
