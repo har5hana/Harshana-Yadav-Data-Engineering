@@ -1,0 +1,21 @@
+EmployeeID,Name,Age,Gender,Department,Designation,Experience,Salary,Bonus,City,PerformanceRating
+101,Aarav Sharma,25,Male,IT,Software Engineer,2,52000,5000,Pune,4.3
+102,Priya Verma,31,Female,HR,HR Manager,7,68000,8000,Mumbai,4.6
+103,Rohan Patel,28,Male,Finance,Accountant,4,59000,6000,Ahmedabad,4.1
+104,Sneha Gupta,35,Female,IT,Senior Developer,10,92000,15000,Bangalore,4.8
+105,Vikram Singh,29,Male,Sales,Sales Executive,5,48000,7000,Delhi,3.9
+106,Ananya Iyer,32,Female,Marketing,Marketing Manager,8,76000,10000,Chennai,4.5
+107,Karan Mehta,27,Male,IT,Data Analyst,3,61000,5500,Pune,4.2
+108,Neha Kapoor,30,Female,Finance,Financial Analyst,6,67000,6500,Mumbai,4.4
+109,Rahul Joshi,26,Male,Sales,Sales Executive,2,45000,4000,Indore,3.8
+110,Isha Nair,34,Female,HR,Recruitment Lead,9,81000,12000,Kochi,4.7
+111,Arjun Rao,29,Male,IT,Cloud Engineer,5,73000,8500,Hyderabad,4.5
+112,Meera Shah,24,Female,Marketing,Marketing Associate,1,42000,3000,Surat,3.7
+113,Kabir Khan,33,Male,Finance,Senior Accountant,8,79000,11000,Delhi,4.6
+114,Ritika Das,28,Female,IT,Software Engineer,4,64000,6000,Kolkata,4.2
+115,Aditya Kulkarni,,Male,IT,DevOps Engineer,5,,7000,Pune,4.4
+116,Pooja Mishra,31,Female,HR,HR Executive,6,61000,,Lucknow,4.1
+117,Manish Yadav,29,Male,Sales,Regional Manager,7,85000,13000,Jaipur,4.7
+118,Simran Kaur,27,Female,Marketing,Content Strategist,3,56000,4500,Chandigarh,4.0
+119,Nikhil Jain,36,Male,Finance,Finance Manager,12,98000,18000,Mumbai,4.9
+120,Aditi Roy,30,Female,IT,Data Scientist,6,89000,14000,Bangalore,4.8
