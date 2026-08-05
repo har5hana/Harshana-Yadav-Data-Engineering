@@ -1,0 +1,19 @@
+TicketID,AgentID,Status,ResolutionTime
+T001,A001,Resolved,0h 22m 45s
+T002,A002,Pending,0h 12m 10s
+T003,A003,Resolved,0h 35m 30s
+T004,A004,Resolved,0h 14m 20s
+T005,A005,Resolved,1h 05m 40s
+T006,A006,Open,0h 05m 20s
+T007,A007,Resolved,0h 28m 15s
+T008,A008,Resolved,0h 16m 50s
+T009,A009,Pending,0h 10m 10s
+T010,A010,Resolved,0h 45m 15s
+T011,A011,Resolved,0h 13m 50s
+T012,A012,Resolved,0h 20m 20s
+T013,A013,Resolved,0h 17m 30s
+T014,A014,Resolved,0h 30m 05s
+T015,A015,Open,0h 06m 40s
+T016,A016,Resolved,0h 18m 25s
+T017,A017,Resolved,0h 24m 10s
+T018,A018,Resolved,0h 22m 30s
