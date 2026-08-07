@@ -1,14 +1,3 @@
-# E-Commerce Order Analytics System
-
-## Internship Mini Project
-
-**Student Name:** Harshana Yadav  
-**Course:** Master of Computer Applications (MCA)  
-**Technology Stack:** Python, SQLite, Pandas, Faker  
-**Development Environment:** Visual Studio Code
-
----
-
 # Project Overview
 
 The **E-Commerce Order Analytics System** is an end-to-end data analytics project that simulates a real-world e-commerce environment. The project focuses on generating realistic order datasets, introducing intentional inconsistencies, cleaning and validating the data, storing it in a SQLite database, and performing business analysis using SQL.
