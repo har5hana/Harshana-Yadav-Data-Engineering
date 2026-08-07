@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+P0001,Laptop,Electronics,Laptop,48931
+P0002,Laptop,Electronics,Laptop,49317
+P0003,Laptop,Electronics,Laptop,35864
+P0004,Laptop,Electronics,Laptop,22998
+P0005,Laptop,Electronics,Laptop,16226
+P0006,Laptop,Electronics,Laptop,1185
+P0007,Laptop,Electronics,Laptop,31096
+P0008,Laptop,Electronics,Laptop,17378
+P0009,Laptop,Electronics,Laptop,38346
+P0010,Laptop,Electronics,Laptop,8609
+P0011,Laptop,Electronics,Laptop,12284
+P0012,Laptop,Electronics,Laptop,26479
+P0013,Laptop,Electronics,Laptop,12444
+P0014,  LAPTOP  ,Electronics,Laptop,19880
+P0015,Laptop,Electronics,Laptop,8140
+P0016,Laptop,Electronics,Laptop,44578
+P0017,Laptop,Electronics,Laptop,46999
+P0018,Laptop,Electronics,Laptop,12099
+P0019,  LAPTOP  ,Electronics,Laptop,44064
+P0020,Laptop,Electronics,Laptop,19027
+P0021,Laptop,Electronics,Laptop,32841
+P0022,Laptop,Electronics,Laptop,37797
+P0023,Laptop,Electronics,Laptop,7005
+P0024,Laptop,Electronics,Laptop,48783
+P0025,Laptop,Electronics,Laptop,42311
+P0026,Mobile,Electronics,Mobile,44584
+P0027,Mobile,Electronics,Mobile,11713
+P0028,Mobile,Electronics,Mobile,30037
+P0029,Mobile,Electronics,Mobile,23280
+P0030,Mobile,Electronics,Mobile,41091
+P0031,Mobile,Electronics,Mobile,34418
+P0032,Mobile,Electronics,Mobile,8477
+P0033,Mobile,Electronics,Mobile,16172
+P0034,Mobile,Electronics,Mobile,38032
+P0035,Mobile,Electronics,Mobile,44896
+P0036,Mobile,Electronics,Mobile,4982
+P0037,Mobile,Electronics,Mobile,15512
+P0038,Mobile,Electronics,Mobile,5087
+P0039,Mobile,Electronics,Mobile,15236
+P0040,Mobile,Electronics,Mobile,44701
+P0041,Mobile,Electronics,Mobile,10422
+P0042,Mobile,Electronics,Mobile,34423
+P0043,Mobile,Electronics,Mobile,37164
+P0044,Mobile,Electronics,Mobile,5618
+P0045,Mobile,Electronics,Mobile,13360
+P0046,Mobile,Electronics,Mobile,17457
+P0047,Mobile,Electronics,Mobile,27520
+P0048,Mobile,Electronics,Mobile,44311
+P0049,Mobile,Electronics,Mobile,16742
+P0050,Mobile,Electronics,Mobile,35621
+P0051,  KEYBOARD  ,Electronics,Keyboard,10814
+P0052,Keyboard,Electronics,Keyboard,43079
+P0053,Keyboard,Electronics,Keyboard,1418
+P0054,Keyboard,Electronics,Keyboard,3487
+P0055,Keyboard,Electronics,Keyboard,39859
+P0056,Keyboard,Electronics,Keyboard,11303
+P0057,Keyboard,Electronics,Keyboard,25435
+P0058,Keyboard,Electronics,Keyboard,18984
+P0059,Keyboard,Electronics,Keyboard,600
+P0060,Keyboard,Electronics,Keyboard,30221
+P0061,Keyboard,Electronics,Keyboard,47306
+P0062,Keyboard,Electronics,Keyboard,2058
+P0063,Keyboard,Electronics,Keyboard,38550
+P0064,Keyboard,Electronics,Keyboard,35425
+P0065,Keyboard,Electronics,Keyboard,22053
+P0066,Keyboard,Electronics,Keyboard,14810
+P0067,Keyboard,Electronics,Keyboard,47133
+P0068,Keyboard,Electronics,Keyboard,2719
+P0069,Keyboard,Electronics,Keyboard,14914
+P0070,Keyboard,Electronics,Keyboard,36009
+P0071,Keyboard,Electronics,Keyboard,49175
+P0072,Keyboard,Electronics,Keyboard,18821
+P0073,Keyboard,Electronics,Keyboard,5190
+P0074,Keyboard,Electronics,Keyboard,1817
+P0075,Keyboard,Electronics,Keyboard,1986
+P0076,Mouse,Electronics,Mouse,43034
+P0077,Mouse,Electronics,Mouse,6677
+P0078,Mouse,Electronics,Mouse,32223
+P0079,Mouse,Electronics,Mouse,49205
+P0080,Mouse,Electronics,Mouse,40186
+P0081,Mouse,Electronics,Mouse,30630
+P0082,Mouse,Electronics,Mouse,49972
+P0083,Mouse,Electronics,Mouse,22459
+P0084,Mouse,Electronics,Mouse,41467
+P0085,Mouse,Electronics,Mouse,21781
+P0086,Mouse,Electronics,Mouse,35082
+P0087,Mouse,Electronics,Mouse,9834
+P0088,Mouse,Electronics,Mouse,15594
+P0089,Mouse,Electronics,Mouse,34277
+P0090,  MOUSE  ,Electronics,Mouse,38549
+P0091,Mouse,Electronics,Mouse,33627
+P0092,Mouse,Electronics,Mouse,4247
+P0093,Mouse,Electronics,Mouse,37734
+P0094,Mouse,Electronics,Mouse,15002
+P0095,Mouse,Electronics,Mouse,28467
+P0096,Mouse,Electronics,Mouse,27554
+P0097,Mouse,Electronics,Mouse,44703
+P0098,Mouse,Electronics,Mouse,37161
+P0099,  MOUSE  ,Electronics,Mouse,26108
+P0100,Mouse,Electronics,Mouse,34225
+P0101,Headphones,Electronics,Headphones,48367
+P0102,Headphones,Electronics,Headphones,46836
+P0103,Headphones,Electronics,Headphones,7076
+P0104,Headphones,Electronics,Headphones,40736
+P0105,Headphones,Electronics,Headphones,2433
+P0106,Headphones,Electronics,Headphones,44420
+P0107,Headphones,Electronics,Headphones,6321
+P0108,Headphones,Electronics,Headphones,17796
+P0109,Headphones,Electronics,Headphones,24516
+P0110,Headphones,Electronics,Headphones,45427
+P0111,Headphones,Electronics,Headphones,33784
+P0112,Headphones,Electronics,Headphones,19605
+P0113,Headphones,Electronics,Headphones,22710
+P0114,Headphones,Electronics,Headphones,11748
+P0115,Headphones,Electronics,Headphones,2239
+P0116,Headphones,Electronics,Headphones,9274
+P0117,Headphones,Electronics,Headphones,29858
+P0118,Headphones,Electronics,Headphones,14572
+P0119,Headphones,Electronics,Headphones,39880
+P0120,Headphones,Electronics,Headphones,29721
+P0121,Headphones,Electronics,Headphones,46444
+P0122,Headphones,Electronics,Headphones,11485
+P0123,Headphones,Electronics,Headphones,39479
+P0124,Headphones,Electronics,Headphones,47281
+P0125,Headphones,Electronics,Headphones,1700
+P0126,T-Shirt,Clothing,T-Shirt,565
+P0127,T-Shirt,Clothing,T-Shirt,29769
+P0128,  T-SHIRT  ,Clothing,T-Shirt,3438
+P0129,T-Shirt,Clothing,T-Shirt,48954
+P0130,T-Shirt,Clothing,T-Shirt,34769
+P0131,  T-SHIRT  ,Clothing,T-Shirt,17383
+P0132,T-Shirt,Clothing,T-Shirt,43666
+P0133,T-Shirt,Clothing,T-Shirt,38764
+P0134,T-Shirt,Clothing,T-Shirt,38365
+P0135,  T-SHIRT  ,Clothing,T-Shirt,7233
+P0136,T-Shirt,Clothing,T-Shirt,27171
+P0137,  T-SHIRT  ,Clothing,T-Shirt,22859
+P0138,T-Shirt,Clothing,T-Shirt,36080
+P0139,T-Shirt,Clothing,T-Shirt,1547
+P0140,T-Shirt,Clothing,T-Shirt,1474
+P0141,T-Shirt,Clothing,T-Shirt,30628
+P0142,T-Shirt,Clothing,T-Shirt,489
+P0143,T-Shirt,Clothing,T-Shirt,48181
+P0144,  T-SHIRT  ,Clothing,T-Shirt,23988
+P0145,T-Shirt,Clothing,T-Shirt,32912
+P0146,T-Shirt,Clothing,T-Shirt,11607
+P0147,T-Shirt,Clothing,T-Shirt,44693
+P0148,T-Shirt,Clothing,T-Shirt,41447
+P0149,T-Shirt,Clothing,T-Shirt,23980
+P0150,  T-SHIRT  ,Clothing,T-Shirt,9633
+P0151,Jeans,Clothing,Jeans,35418
+P0152,  JEANS  ,Clothing,Jeans,12766
+P0153,Jeans,Clothing,Jeans,21918
+P0154,Jeans,Clothing,Jeans,1728
+P0155,Jeans,Clothing,Jeans,9993
+P0156,Jeans,Clothing,Jeans,1147
+P0157,Jeans,Clothing,Jeans,23167
+P0158,Jeans,Clothing,Jeans,2718
+P0159,Jeans,Clothing,Jeans,11877
+P0160,Jeans,Clothing,Jeans,46148
+P0161,  JEANS  ,Clothing,Jeans,23835
+P0162,Jeans,Clothing,Jeans,28349
+P0163,Jeans,Clothing,Jeans,26100
+P0164,Jeans,Clothing,Jeans,17767
+P0165,Jeans,Clothing,Jeans,35349
+P0166,Jeans,Clothing,Jeans,18080
+P0167,Jeans,Clothing,Jeans,5060
+P0168,Jeans,Clothing,Jeans,48387
+P0169,Jeans,Clothing,Jeans,13435
+P0170,  JEANS  ,Clothing,Jeans,31948
+P0171,Jeans,Clothing,Jeans,20002
+P0172,Jeans,Clothing,Jeans,7203
+P0173,Jeans,Clothing,Jeans,3775
+P0174,Jeans,Clothing,Jeans,11310
+P0175,Jeans,Clothing,Jeans,153
+P0176,Jacket,Clothing,Jacket,44761
+P0177,Jacket,Clothing,Jacket,38738
+P0178,Jacket,Clothing,Jacket,12809
+P0179,Jacket,Clothing,Jacket,25206
+P0180,Jacket,Clothing,Jacket,49704
+P0181,Jacket,Clothing,Jacket,8262
+P0182,Jacket,Clothing,Jacket,4411
+P0183,Jacket,Clothing,Jacket,9675
+P0184,Jacket,Clothing,Jacket,45115
+P0185,  JACKET  ,Clothing,Jacket,10145
+P0186,Jacket,Clothing,Jacket,30229
+P0187,Jacket,Clothing,Jacket,19608
+P0188,Jacket,Clothing,Jacket,49853
+P0189,Jacket,Clothing,Jacket,14076
+P0190,Jacket,Clothing,Jacket,17582
+P0191,Jacket,Clothing,Jacket,21465
+P0192,Jacket,Clothing,Jacket,17292
+P0193,Jacket,Clothing,Jacket,35534
+P0194,Jacket,Clothing,Jacket,15305
+P0195,Jacket,Clothing,Jacket,41512
+P0196,Jacket,Clothing,Jacket,30853
+P0197,Jacket,Clothing,Jacket,25085
+P0198,Jacket,Clothing,Jacket,39658
+P0199,Jacket,Clothing,Jacket,18028
+P0200,Jacket,Clothing,Jacket,40730
+P0201,Shoes,Clothing,Shoes,31081
+P0202,Shoes,Clothing,Shoes,32792
+P0203,Shoes,Clothing,Shoes,25487
+P0204,Shoes,Clothing,Shoes,8095
+P0205,Shoes,Clothing,Shoes,30399
+P0206,Shoes,Clothing,Shoes,2954
+P0207,Shoes,Clothing,Shoes,4114
+P0208,Shoes,Clothing,Shoes,43438
+P0209,Shoes,Clothing,Shoes,33124
+P0210,Shoes,Clothing,Shoes,41560
+P0211,Shoes,Clothing,Shoes,15890
+P0212,Shoes,Clothing,Shoes,33872
+P0213,Shoes,Clothing,Shoes,30521
+P0214,Shoes,Clothing,Shoes,30083
+P0215,Shoes,Clothing,Shoes,33444
+P0216,Shoes,Clothing,Shoes,6307
+P0217,Shoes,Clothing,Shoes,14250
+P0218,Shoes,Clothing,Shoes,40798
+P0219,Shoes,Clothing,Shoes,25079
+P0220,Shoes,Clothing,Shoes,9202
+P0221,Shoes,Clothing,Shoes,36133
+P0222,Shoes,Clothing,Shoes,27177
+P0223,Shoes,Clothing,Shoes,317
+P0224,Shoes,Clothing,Shoes,30793
+P0225,Shoes,Clothing,Shoes,7308
+P0226,Cap,Clothing,Cap,26041
+P0227,Cap,Clothing,Cap,19466
+P0228,Cap,Clothing,Cap,45070
+P0229,Cap,Clothing,Cap,3511
+P0230,Cap,Clothing,Cap,33265
+P0231,Cap,Clothing,Cap,32043
+P0232,Cap,Clothing,Cap,4445
+P0233,Cap,Clothing,Cap,45984
+P0234,Cap,Clothing,Cap,39071
+P0235,Cap,Clothing,Cap,44064
+P0236,  CAP  ,Clothing,Cap,45829
+P0237,Cap,Clothing,Cap,11650
+P0238,Cap,Clothing,Cap,34387
+P0239,Cap,Clothing,Cap,49008
+P0240,Cap,Clothing,Cap,44143
+P0241,Cap,Clothing,Cap,32819
+P0242,Cap,Clothing,Cap,41035
+P0243,Cap,Clothing,Cap,7922
+P0244,Cap,Clothing,Cap,14667
+P0245,Cap,Clothing,Cap,22962
+P0246,Cap,Clothing,Cap,25168
+P0247,Cap,Clothing,Cap,19544
+P0248,Cap,Clothing,Cap,38618
+P0249,Cap,Clothing,Cap,24155
+P0250,Cap,Clothing,Cap,35423
+P0251,Python Book,Books,Python Book,23516
+P0252,Python Book,Books,Python Book,42284
+P0253,Python Book,Books,Python Book,17127
+P0254,Python Book,Books,Python Book,16385
+P0255,Python Book,Books,Python Book,22213
+P0256,Python Book,Books,Python Book,38751
+P0257,Python Book,Books,Python Book,7341
+P0258,Python Book,Books,Python Book,9119
+P0259,Python Book,Books,Python Book,45162
+P0260,Python Book,Books,Python Book,20519
+P0261,Python Book,Books,Python Book,2790
+P0262,Python Book,Books,Python Book,35509
+P0263,Python Book,Books,Python Book,18177
+P0264,Python Book,Books,Python Book,28953
+P0265,Python Book,Books,Python Book,19617
+P0266,Python Book,Books,Python Book,6375
+P0267,Python Book,Books,Python Book,29235
+P0268,  PYTHON BOOK  ,Books,Python Book,20265
+P0269,Python Book,Books,Python Book,35703
+P0270,Python Book,Books,Python Book,29669
+P0271,Python Book,Books,Python Book,11756
+P0272,Python Book,Books,Python Book,3989
+P0273,Python Book,Books,Python Book,43817
+P0274,  PYTHON BOOK  ,Books,Python Book,45533
+P0275,Python Book,Books,Python Book,46814
+P0276,SQL Guide,Books,SQL Guide,48680
+P0277,SQL Guide,Books,SQL Guide,15961
+P0278,SQL Guide,Books,SQL Guide,9687
+P0279,SQL Guide,Books,SQL Guide,37629
+P0280,SQL Guide,Books,SQL Guide,13262
+P0281,SQL Guide,Books,SQL Guide,17232
+P0282,SQL Guide,Books,SQL Guide,31159
+P0283,SQL Guide,Books,SQL Guide,8846
+P0284,SQL Guide,Books,SQL Guide,22053
+P0285,SQL Guide,Books,SQL Guide,6155
+P0286,SQL Guide,Books,SQL Guide,18039
+P0287,SQL Guide,Books,SQL Guide,26329
+P0288,SQL Guide,Books,SQL Guide,6985
+P0289,SQL Guide,Books,SQL Guide,29657
+P0290,SQL Guide,Books,SQL Guide,33114
+P0291,SQL Guide,Books,SQL Guide,48457
+P0292,SQL Guide,Books,SQL Guide,13599
+P0293,  SQL GUIDE  ,Books,SQL Guide,14705
+P0294,SQL Guide,Books,SQL Guide,39594
+P0295,SQL Guide,Books,SQL Guide,25853
+P0296,SQL Guide,Books,SQL Guide,25562
+P0297,SQL Guide,Books,SQL Guide,40824
+P0298,SQL Guide,Books,SQL Guide,34094
+P0299,  SQL GUIDE  ,Books,SQL Guide,30800
+P0300,SQL Guide,Books,SQL Guide,8785
+P0301,Data Science,Books,Data Science,24117
+P0302,Data Science,Books,Data Science,39280
+P0303,Data Science,Books,Data Science,32602
+P0304,Data Science,Books,Data Science,44023
+P0305,Data Science,Books,Data Science,815
+P0306,Data Science,Books,Data Science,48652
+P0307,  DATA SCIENCE  ,Books,Data Science,36057
+P0308,Data Science,Books,Data Science,40908
+P0309,Data Science,Books,Data Science,21109
+P0310,Data Science,Books,Data Science,22372
+P0311,Data Science,Books,Data Science,13534
+P0312,Data Science,Books,Data Science,16576
+P0313,Data Science,Books,Data Science,2992
+P0314,Data Science,Books,Data Science,22713
+P0315,Data Science,Books,Data Science,2093
+P0316,Data Science,Books,Data Science,38111
+P0317,Data Science,Books,Data Science,2384
+P0318,Data Science,Books,Data Science,11342
+P0319,Data Science,Books,Data Science,9100
+P0320,Data Science,Books,Data Science,46968
+P0321,Data Science,Books,Data Science,19633
+P0322,Data Science,Books,Data Science,48663
+P0323,Data Science,Books,Data Science,43345
+P0324,Data Science,Books,Data Science,5615
+P0325,Data Science,Books,Data Science,7947
+P0326,AI Basics,Books,AI Basics,39762
+P0327,AI Basics,Books,AI Basics,24036
+P0328,AI Basics,Books,AI Basics,37786
+P0329,AI Basics,Books,AI Basics,39861
+P0330,AI Basics,Books,AI Basics,17012
+P0331,AI Basics,Books,AI Basics,45581
+P0332,AI Basics,Books,AI Basics,33310
+P0333,AI Basics,Books,AI Basics,19776
+P0334,AI Basics,Books,AI Basics,42241
+P0335,AI Basics,Books,AI Basics,17730
+P0336,AI Basics,Books,AI Basics,26077
+P0337,AI Basics,Books,AI Basics,31447
+P0338,AI Basics,Books,AI Basics,42301
+P0339,AI Basics,Books,AI Basics,12462
+P0340,AI Basics,Books,AI Basics,46369
+P0341,AI Basics,Books,AI Basics,4337
+P0342,AI Basics,Books,AI Basics,47769
+P0343,AI Basics,Books,AI Basics,8584
+P0344,AI Basics,Books,AI Basics,16849
+P0345,AI Basics,Books,AI Basics,48251
+P0346,AI Basics,Books,AI Basics,28418
+P0347,  AI BASICS  ,Books,AI Basics,41616
+P0348,AI Basics,Books,AI Basics,13413
+P0349,AI Basics,Books,AI Basics,31531
+P0350,AI Basics,Books,AI Basics,19228
+P0351,Algorithms,Books,Algorithms,1050
+P0352,Algorithms,Books,Algorithms,36245
+P0353,Algorithms,Books,Algorithms,43549
+P0354,Algorithms,Books,Algorithms,45828
+P0355,Algorithms,Books,Algorithms,46986
+P0356,  ALGORITHMS  ,Books,Algorithms,36178
+P0357,Algorithms,Books,Algorithms,46360
+P0358,Algorithms,Books,Algorithms,5518
+P0359,Algorithms,Books,Algorithms,2195
+P0360,Algorithms,Books,Algorithms,43864
+P0361,Algorithms,Books,Algorithms,36584
+P0362,Algorithms,Books,Algorithms,9144
+P0363,Algorithms,Books,Algorithms,23377
+P0364,  ALGORITHMS  ,Books,Algorithms,10924
+P0365,Algorithms,Books,Algorithms,29258
+P0366,Algorithms,Books,Algorithms,46628
+P0367,Algorithms,Books,Algorithms,26835
+P0368,Algorithms,Books,Algorithms,16784
+P0369,Algorithms,Books,Algorithms,18957
+P0370,Algorithms,Books,Algorithms,1120
+P0371,Algorithms,Books,Algorithms,32735
+P0372,  ALGORITHMS  ,Books,Algorithms,48422
+P0373,Algorithms,Books,Algorithms,42179
+P0374,  ALGORITHMS  ,Books,Algorithms,15623
+P0375,Algorithms,Books,Algorithms,22063
+P0376,Chair,Home,Chair,10433
+P0377,Chair,Home,Chair,48959
+P0378,Chair,Home,Chair,34833
+P0379,Chair,Home,Chair,6002
+P0380,Chair,Home,Chair,44472
+P0381,Chair,Home,Chair,21706
+P0382,Chair,Home,Chair,30848
+P0383,Chair,Home,Chair,38482
+P0384,Chair,Home,Chair,17811
+P0385,Chair,Home,Chair,21575
+P0386,Chair,Home,Chair,20915
+P0387,Chair,Home,Chair,33975
+P0388,Chair,Home,Chair,12402
+P0389,  CHAIR  ,Home,Chair,30590
+P0390,Chair,Home,Chair,34177
+P0391,Chair,Home,Chair,598
+P0392,Chair,Home,Chair,48060
+P0393,Chair,Home,Chair,27127
+P0394,Chair,Home,Chair,40130
+P0395,Chair,Home,Chair,12391
+P0396,Chair,Home,Chair,1799
+P0397,  CHAIR  ,Home,Chair,49374
+P0398,Chair,Home,Chair,19258
+P0399,Chair,Home,Chair,27525
+P0400,Chair,Home,Chair,25901
+P0401,Table,Home,Table,12993
+P0402,Table,Home,Table,34865
+P0403,Table,Home,Table,27880
+P0404,Table,Home,Table,10827
+P0405,  TABLE  ,Home,Table,24171
+P0406,Table,Home,Table,44220
+P0407,Table,Home,Table,46067
+P0408,Table,Home,Table,42320
+P0409,Table,Home,Table,32119
+P0410,Table,Home,Table,22225
+P0411,Table,Home,Table,30246
+P0412,Table,Home,Table,33624
+P0413,Table,Home,Table,24424
+P0414,Table,Home,Table,27970
+P0415,  TABLE  ,Home,Table,49188
+P0416,Table,Home,Table,3327
+P0417,Table,Home,Table,8207
+P0418,Table,Home,Table,19037
+P0419,Table,Home,Table,44977
+P0420,Table,Home,Table,12915
+P0421,Table,Home,Table,41434
+P0422,Table,Home,Table,33825
+P0423,Table,Home,Table,22251
+P0424,Table,Home,Table,27860
+P0425,Table,Home,Table,43807
+P0426,Lamp,Home,Lamp,6321
+P0427,Lamp,Home,Lamp,24743
+P0428,Lamp,Home,Lamp,31222
+P0429,Lamp,Home,Lamp,37166
+P0430,Lamp,Home,Lamp,34764
+P0431,Lamp,Home,Lamp,24041
+P0432,Lamp,Home,Lamp,24061
+P0433,Lamp,Home,Lamp,42181
+P0434,Lamp,Home,Lamp,31728
+P0435,Lamp,Home,Lamp,2037
+P0436,Lamp,Home,Lamp,27813
+P0437,Lamp,Home,Lamp,182
+P0438,Lamp,Home,Lamp,46177
+P0439,Lamp,Home,Lamp,35701
+P0440,Lamp,Home,Lamp,27126
+P0441,Lamp,Home,Lamp,8489
+P0442,Lamp,Home,Lamp,26953
+P0443,Lamp,Home,Lamp,28513
+P0444,Lamp,Home,Lamp,16250
+P0445,Lamp,Home,Lamp,5074
+P0446,Lamp,Home,Lamp,11852
+P0447,Lamp,Home,Lamp,14562
+P0448,Lamp,Home,Lamp,30357
+P0449,Lamp,Home,Lamp,35707
+P0450,Lamp,Home,Lamp,45046
+P0451,Bottle,Home,Bottle,1802
+P0452,Bottle,Home,Bottle,39614
+P0453,Bottle,Home,Bottle,570
+P0454,Bottle,Home,Bottle,37869
+P0455,Bottle,Home,Bottle,5865
+P0456,Bottle,Home,Bottle,21563
+P0457,Bottle,Home,Bottle,25488
+P0458,Bottle,Home,Bottle,25162
+P0459,Bottle,Home,Bottle,7349
+P0460,Bottle,Home,Bottle,40790
+P0461,Bottle,Home,Bottle,14300
+P0462,Bottle,Home,Bottle,13375
+P0463,Bottle,Home,Bottle,21928
+P0464,Bottle,Home,Bottle,9994
+P0465,Bottle,Home,Bottle,40694
+P0466,Bottle,Home,Bottle,24045
+P0467,Bottle,Home,Bottle,48297
+P0468,Bottle,Home,Bottle,21264
+P0469,Bottle,Home,Bottle,11128
+P0470,Bottle,Home,Bottle,12095
+P0471,Bottle,Home,Bottle,21196
+P0472,Bottle,Home,Bottle,8661
+P0473,Bottle,Home,Bottle,34883
+P0474,Bottle,Home,Bottle,49498
+P0475,Bottle,Home,Bottle,48345
+P0476,Sofa,Home,Sofa,18603
+P0477,Sofa,Home,Sofa,19312
+P0478,Sofa,Home,Sofa,14818
+P0479,Sofa,Home,Sofa,13011
+P0480,Sofa,Home,Sofa,5275
+P0481,Sofa,Home,Sofa,1860
+P0482,Sofa,Home,Sofa,15511
+P0483,Sofa,Home,Sofa,15736
+P0484,Sofa,Home,Sofa,47934
+P0485,Sofa,Home,Sofa,34760
+P0486,Sofa,Home,Sofa,44357
+P0487,Sofa,Home,Sofa,43060
+P0488,Sofa,Home,Sofa,49325
+P0489,Sofa,Home,Sofa,16565
+P0490,Sofa,Home,Sofa,46433
+P0491,Sofa,Home,Sofa,39035
+P0492,Sofa,Home,Sofa,20070
+P0493,Sofa,Home,Sofa,1550
+P0494,Sofa,Home,Sofa,13193
+P0495,Sofa,Home,Sofa,1051
+P0496,Sofa,Home,Sofa,38585
+P0497,Sofa,Home,Sofa,10624
+P0498,Sofa,Home,Sofa,26243
+P0499,Sofa,Home,Sofa,5143
+P0500,Sofa,Home,Sofa,13032
