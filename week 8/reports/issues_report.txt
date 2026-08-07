@@ -1,0 +1,5 @@
+NULL customer IDs fixed: 21
+Wrong date formats corrected: 0
+Product names normalized.
+Invalid emails found: 12
+Broken order references: 0

@@ -1,0 +1,13 @@
+customer_id,customer_name,email,registration_date,customer_type
+C0012,Michele Henderson,sonya00example.org,2024-07-01,VIP
+C0049,Jennifer Leon DDS,jeffreylongexample.com,2024-07-06,PREMIUM
+C0051,Jenna Harrison,duncanericexample.com,2026-03-27,VIP
+C0055,Danny Martinez,xperryexample.org,2024-02-13,PREMIUM
+C0065,Morgan Garrett,sharistewartexample.org,2024-06-29,PREMIUM
+C0183,Stacey Anderson,kimberlyspencerexample.net,2023-12-14,REGULAR
+C0225,Jamie Evans,jacksonalexisexample.com,2025-03-08,REGULAR
+C0228,Denise Jackson,matthewleeexample.com,2023-12-16,REGULAR
+C0258,Kristin Manning,fharperexample.org,2026-06-22,VIP
+C0296,Frank Floyd,joshuavanceexample.com,2024-03-12,PREMIUM
+C0328,Joshua Ortiz,javier95example.com,2025-02-05,VIP
+C0483,John Wright,dclarkexample.org,2024-07-09,VIP
